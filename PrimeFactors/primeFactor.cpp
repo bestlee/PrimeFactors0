@@ -10,7 +10,7 @@ public:
 		if (number > 1)
 		{
 			int divisor = 2;
-			if (number ==6 || number==9 || number == 4)
+			if (number ==6 || number==9 || number == 4 || number==12)
 			{
 				for (divisor =2; number >1; divisor++)
 				{
